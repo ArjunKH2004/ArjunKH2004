@@ -1,5 +1,5 @@
 - 👋 Hi, I’m K H Arjun
-- 👀 I’m interested in Web Development
+- 👀 I’m into Tech and Design
 - 🌱 I’m currently learning B.Tech in Artificial Intelligence and Machine Learning
 - 📫 You could reach me via my Instagram
 
