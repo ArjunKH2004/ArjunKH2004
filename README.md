@@ -1,10 +1,20 @@
-- 👋 Hi, I’m K H Arjun
-- 👀 I’m into Tech and Design
-- 🌱 I’m currently learning B.Tech in Artificial Intelligence and Machine Learning
-- 📫 You could reach me via my Instagram
+# Welcome to My GitHub Profile! 🎮
 
+### 🌟 About Me
+Hey there! I'm K H Arjun, a passionate developer with expertise in web development, UI design, and graphic design. I love crafting amazing user experiences through code and design.
 
-<!---
-ArjunKH2004/ArjunKH2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ My Skills
+- Web Development (HTML/CSS/JS)
+- UI Designer
+- Graphic Designer
+
+### 🚀 Current Projects
+- **[Memory Guesser](https://arjunkh2004.github.io/Memory-Guesser/)**: This project combines an engaging frontend for a memory challenge game with a powerful AI-generated backend using ChatGPT
+
+### 📫 Get in Touch
+Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about web development and design!
+- [Twitter]([https://twitter.com/yourhandle](https://twitter.com/ArjunKH2004))
+- [LinkedIn](https://www.linkedin.com/in/k-h-arjun-310913206/)
+- [Instagram](https://www.instagram.com/a.rjunnn._/) 
+
+### 🎉 Let's Connect and Build Something Awesome Together!
