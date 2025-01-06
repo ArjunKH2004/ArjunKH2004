@@ -10,6 +10,7 @@ Hey there! I'm K H Arjun, a passionate developer with expertise in web developme
 
 ### 🚀 Current Projects
 - **[Memory Guesser](https://arjunkh2004.github.io/Memory-Guesser/)**: This project combines an engaging frontend for a memory challenge game with a powerful AI-generated backend using ChatGPT
+- **[Designer Portfolio](https://www.figma.com/design/LdHsdB6Yg7rSmMP780rZzr/Designer-Portfolio?node-id=18-229&t=iHBkjAsQJ03YJ7f8-1)**
 
 ### 📫 Get in Touch
 Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about web development and design!
