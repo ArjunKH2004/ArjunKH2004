@@ -1,17 +1,15 @@
+
 <div align="center">
 
 # Hi, I'm K H Arjun 👋
 
-[![Animated introduction](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Product+Designer;Turning+complexity+into+clear+experiences;Designing+with+purpose%2C+empathy%2C+and+systems)](https://git.io/typing-svg)
+[![Animated introduction](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Designer+%26+Builder;Exploring+Design+%26+Technology;Turning+Ideas+Into+Experiences+%26+Products)](https://git.io/typing-svg)
 
-**Product Designer crafting thoughtful, usable, and scalable digital experiences.**
+**Designer & Builder exploring the intersection of design, technology, and product development.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kharjun.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kharjun/)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharjun48@gmail.com)
-
-<!-- OPTIONAL: Replace the placeholder links, then remove this comment.
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
--->
 
 </div>
 
@@ -19,110 +17,73 @@
 
 ## About me
 
-I’m a **product designer** focused on making complex products feel simple. I enjoy connecting user needs, business goals, and technical realities to create experiences that are useful, intuitive, and built to evolve.
+I'm a multidisciplinary designer with a background in **Artificial Intelligence and Machine Learning**, interested in exploring how design and technology can come together to solve meaningful problems.
 
-- 🔍 I approach problems with curiosity and a user-first mindset
-- 🧭 I turn ambiguous requirements into clear product flows
-- 🧩 I think in systems, not isolated screens
-- 🤝 I value close collaboration with product and engineering teams
-- 🌱 I’m continuously learning, testing, and refining my craft
+I enjoy understanding problems, exploring possibilities, designing experiences, and turning ideas into working products. My interests span product design, UX/UI, visual design, branding, creative technology, and experimentation.
 
-## What I bring to a product
+My engineering background keeps me curious about emerging technologies, particularly AI, and how they can be used to create genuinely useful experiences.
 
-| Discover | Define | Design | Deliver |
-| :---: | :---: | :---: | :---: |
-| User research | Problem framing | UX & interaction design | Developer handoff |
-| Competitive analysis | Journey mapping | Prototyping | Design QA |
-| Stakeholder insights | Information architecture | Design systems | Iteration & measurement |
+Beyond designing interfaces, I enjoy building, tinkering, and exploring ideas from concept to execution.
 
-## My design process
+## What I do
 
-```mermaid
-flowchart LR
-    A[Understand] --> B[Define]
-    B --> C[Explore]
-    C --> D[Prototype]
-    D --> E[Test]
-    E --> F[Ship]
-    F --> G[Learn]
-    G -. Iterate .-> A
-```
+| Design | Build | Explore |
+| :---: | :---: | :---: |
+| Product Design | Creative Coding | Artificial Intelligence |
+| UX & Interaction Design | Prototyping | Generative AI |
+| Visual Design & Branding | Web Development | Emerging Technologies |
+| Creative Direction | Experimentation | Human-Technology Interaction |
 
-<details>
-<summary><strong>🔎 Understand & define</strong></summary>
-<br>
+## How I approach things
 
-I begin by learning about the people, context, constraints, and desired outcomes. I synthesize those inputs into a focused problem statement and a shared definition of success.
+**🔍 Understand**
 
-</details>
+Question the problem, explore its context, and identify opportunities to make things better.
 
-<details>
-<summary><strong>✏️ Explore & prototype</strong></summary>
-<br>
+**🎨 Design**
 
-I explore multiple directions, map critical flows, and build prototypes at the right level of fidelity to answer the most important questions quickly.
+Explore possibilities, simplify complexity, and shape ideas into meaningful experiences.
 
-</details>
+**🛠️ Build**
 
-<details>
-<summary><strong>🧪 Test, ship & learn</strong></summary>
-<br>
+Move beyond concepts and prototypes, experiment with technology, and bring ideas to life.
 
-I validate assumptions, collaborate closely during implementation, review the shipped experience, and use feedback to guide the next iteration.
+**🔄 Refine**
 
-</details>
+Learn from what works, rethink what doesn't, and keep improving.
 
-## Design principles
+## Things I work with
 
-> **Clarity over decoration**  
-> Every element should help people understand or act.
-
-> **Systems over one-offs**  
-> Reusable patterns create consistency and help products scale.
-
-> **Evidence over assumptions**  
-> Good decisions combine user insight, product context, and measurable outcomes.
-
-> **Collaboration over handoff**  
-> The strongest products emerge when design, product, and engineering build together.
-
-<!-- OPTIONAL: Add your real tools and remove any that do not apply.
-## Tools I use
+**Design & Creative**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-A259FF?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
--->
 
-<!-- OPTIONAL: Duplicate this block for each real case study.
-## Selected work
+**Development & Technology**
 
-### Project name
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**One-line summary of the problem and outcome.**
+**Areas I'm exploring**
 
-- **Role:** Product Designer
-- **Focus:** Research · Interaction Design · Prototyping
-- **Impact:** Add one measurable result here
-- [View case study →](https://YOUR-CASE-STUDY-URL.com)
--->
+AI & Machine Learning · Generative AI · Creative Coding · Product Development · 3D Web Experiences
 
 ## Currently exploring
 
-- Designing clearer workflows for complex products
-- Building accessible, reusable interface patterns
-- Improving product decisions through rapid prototyping
-- Strengthening collaboration between design and engineering
+- Building products, not just designing interfaces.
+- Exploring creative coding and interactive experiences.
+- Finding meaningful applications for AI and emerging technologies.
+- Experimenting with ideas across design and engineering.
 
-## Let’s create something meaningful
+## Let's build something interesting
 
-I’m always interested in thoughtful product conversations, design challenges, and opportunities to build experiences that make a difference.
+I'm always curious about interesting problems, unconventional ideas, and opportunities to create something meaningful.
 
 <div align="center">
 
-### [Say hello](mailto:kharjun48@gmail.com)
+### [Get in touch](mailto:kharjun48@gmail.com)
 
-<sub>Designed with curiosity, clarity, and care.</sub>
+<sub>Curious by nature. Making things along the way.</sub>
 
 </div>
