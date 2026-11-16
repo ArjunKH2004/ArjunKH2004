@@ -7,7 +7,7 @@
 
 **Designer & Builder exploring the intersection of design, technology, and product development.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kharjun.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kharjun.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kharjun/)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharjun48@gmail.com)
 
